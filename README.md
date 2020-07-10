@@ -1,6 +1,6 @@
 # Neo4j
 
-## Baiscs
+## Basics
   - Node
     - label (like person)
   
